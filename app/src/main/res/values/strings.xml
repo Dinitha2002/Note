@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="fab_description">fab description</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="enter_the_title">Enter the Title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="To_Do_Notes">To Do Notes</string>
+    <string name="saveButton">Save</string>
+</resources>
